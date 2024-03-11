@@ -35,9 +35,9 @@ A implementação de ferramentas na empresa *Abstergo Industries tem como espera
 
 ## Anexos
 
-[Amazon EC2] (https://aws.amazon.com/pt/ec2/?did=ft_card&trk=ft_card)
-[Amazon RDS] (https://aws.amazon.com/pt/rds/?p=ft&c=db&z=3)
-[Amazon S3] (https://aws.amazon.com/pt/s3/?nc2=type_a)
+[Amazon EC2](https://aws.amazon.com/pt/ec2/?did=ft_card&trk=ft_card)
+[Amazon RDS](https://aws.amazon.com/pt/rds/?p=ft&c=db&z=3)
+[Amazon S3](https://aws.amazon.com/pt/s3/?nc2=type_a)
 
 Assinatura do Responsável pelo Projeto:
 
